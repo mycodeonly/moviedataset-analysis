@@ -5,7 +5,7 @@ import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-# Add sidebar navigation
+# Add sidebar
 sidebar("""
 ## Navigation
 - [Overview](#dataset-overview)
